@@ -12,7 +12,8 @@ logging.basicConfig(level=logging.INFO,filename='logging.txt')
 
 file2=sys.argv[2]
 file1=sys.argv[1]
-
+#ps0= subprocess.call("touch {}_result.txt".format(file1),shell=True)
+open('{}_result.txt'.format(file1),'w').close() 
 ps1 = subprocess.Popen('samtools view -H {}'.format(file1), shell=True,stdout=subprocess.PIPE)
 ps2 = subprocess.Popen("awk '{print $2\"\t\"$3}' -",shell=True,stdin=ps1.stdout,stdout=subprocess.PIPE)
 ps1.stdout.close() # matters?
