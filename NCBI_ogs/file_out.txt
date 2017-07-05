@@ -1,0 +1,6 @@
+No gene features contain a locus_tag attribute
+Program Summary:
+Found the following features in file [input gff3 file]: 0 of type insertion, 0 of type stop_codon_readthrough, 0 of type deletion, 3 of type stop_codon_read_through, 0 of type substitution.
+You may need to manually add a transl_except attribute to the corresponding CDS feature lines. See https://www.ncbi.nlm.nih.gov/sites/genbank/genomes_gff/ for details.
+827  description attributes found outside of gene features.
+1202  symbol attributes found outside of gene features.

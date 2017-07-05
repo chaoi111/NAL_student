@@ -1,0 +1,6 @@
+07/04/2017 10:05:25 =AM - root - WARNING - start program
+07/04/2017 10:06:00 =AM - root - WARNING - ERROR gene name attribute:ID=CLEC003234;Name=biotin-[acetyl-CoA-carboxylase] ligase ;symbol=HCS;date_last_modified=2014-05-10;owner=richardwhagan
+07/04/2017 10:06:03 =AM - root - WARNING - ERROR gene name attribute:ID=CLEC009635;Name=putative glutamine-dependent NAD(+) synthetase;date_last_modified=2014-05-30;owner=richardwhagan
+07/04/2017 10:06:09 =AM - root - WARNING - ERROR mRNA, pseudogenic_transcript name attribute:ID=CLEC001909-RA;Parent=CLEC001909;Name=3-oxoacyl-[acyl-carrier-protein] synthase ;date_last_modified=2014-05-9;owner=eszuter
+07/04/2017 10:06:10 =AM - root - WARNING - ERROR mRNA, pseudogenic_transcript name attribute:ID=CLEC003234-RA;Parent=CLEC003234;Name=biotin-[acetyl-CoA-carboxylase] ligase ;symbol=HCS;date_last_modified=2014-05-10;owner=richardwhagan
+07/04/2017 10:06:17 =AM - root - WARNING - ERROR mRNA, pseudogenic_transcript name attribute:ID=CLEC009635-RA;Parent=CLEC009635;Name=putative glutamine-dependent NAD(+) synthetase;date_last_modified=2014-05-30;owner=richardwhagan
