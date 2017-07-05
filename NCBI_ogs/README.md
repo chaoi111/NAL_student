@@ -22,7 +22,7 @@
 #### 7.name_Attribute_mRNA_pseudo() 
     - replace Name attribute with product attribute
 #### 8. name_Attribute_trncRNA()  
-
+    - replace Name attribute with product attribute
 #### 9. Scan_for_genome_alterations() 
     -  output summary line including number of features found of each type
 #### 10. description_attribute()  
