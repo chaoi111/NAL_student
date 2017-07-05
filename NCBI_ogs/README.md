@@ -4,6 +4,9 @@
 ## Background
 * We need to submit the Official Gene Sets generated at the i5k Workspace to NCBI/GenBank. To do so, we need to 1) clean up of the original gff, and 2) run NCBI's new table2asn program. 
 * [More information on NCBI's requirements for the gff3 file](https://www.ncbi.nlm.nih.gov/sites/genbank/genomes_gff/)
+## Usage
+pythob ogs_v1.py biosample_ID gff3_file
+
 ## Current Functions  
 #### 2. Remodel_pseudogenes()
     - change parent feature type from 'pseudogene' to 'gene'     
