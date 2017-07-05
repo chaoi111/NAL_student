@@ -5,7 +5,9 @@
 * We need to submit the Official Gene Sets generated at the i5k Workspace to NCBI/GenBank. To do so, we need to 1) clean up of the original gff, and 2) run NCBI's new table2asn program. 
 * [More information on NCBI's requirements for the gff3 file](https://www.ncbi.nlm.nih.gov/sites/genbank/genomes_gff/)
 ## Usage
-    python  ogs_v1.py  biosample_ID  gff3_file
+    python  ogs_v1.py  assembly_ID  gff3_file
+    example: ~/anaconda2/bin/python ogs_v2.py GCA_000696205.1 clec_OGS_v1_2_with_pep_CDS.2.gff3
+
 
 ## Current Functions  
 #### 2. Remodel_pseudogenes()
